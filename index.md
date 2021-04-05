@@ -1,6 +1,6 @@
 ## QLogin Documentation
 
-![Image of Yaktocat](https://ibb.co/ZMD9mj6)
+![Image of Yaktocat]("https://i.ibb.co/ZMD9mj6/logo.png)
 
 ### Introduction
 
