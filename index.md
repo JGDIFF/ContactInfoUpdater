@@ -22,7 +22,7 @@ In a sense, the installation process itself is the entire program, as Qlogin is 
 
 Simply unpack the .exe and run the program, the first two screens you will be presented with are:
 
-[First screen](/1.PNG)
+[First screen](/1.png)
 
 [Second screen](/2.PNG)
 
