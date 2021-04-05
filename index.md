@@ -42,8 +42,23 @@ This page is where the user will enter their managers name, what department they
 5th page, contact information:
 This page is where the user will enter their cell phone number and additional contact information
 
-#6th page, Geolocation information
+6th page, Geolocation information
 This page is where the user will enter their zip cod and their interer provider information. While it may seem intrusive, the point of this information is to quickly be able to discern from genuine employee login attempts, if an employee lives in Oregon, but tries to send a login request from Mumbai, India. We can very easily deny this request with a simple api call to ``` getZip ``` from our API.
+
+### Troubleshooting / Common Errors
+
+Common Error #1:
+```
+FATAL ERROR: incorrect input format for field answer "FIELD", return invalid
+```
+This error means the user gave an incorrect type for a certain field, i.e the user entered characters into the phone number field, this is almost always caused by excess spaces at the end of user input and is an easy error to fix.
+
+Common Error #2: 
+```
+FATAL ERROR: Could not connect to specified host server "ABUNCHOFDATA"
+```
+This error shows if the program cannot connect to host server, users will almost always have to contact their system administrator to solve this issue as it means that either the target server is down or the config was not setup properly. It should be noted that upon this error triggering, the current sessions information is stored locally on the users PC and the program will instantly halt execution as a privacy concern.
+
 
 
 
