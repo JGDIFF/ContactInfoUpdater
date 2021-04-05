@@ -21,10 +21,8 @@ In a sense, the installation process itself is the entire program, as Qlogin is 
 
 Simply unpack the .exe and run the program, the first two screens you will be presented with are:
 
-<img src="/1.PNG">
 [First screen](/1.PNG)
 
-<img src='/2.PNG'>
 [Second screen](/2.PNG)
 
 These two pages are there to let the user know exatcly what he/she is doing and to ensure the user knows that their information needs to be accurate and that their sensitive data is stored securely. 
