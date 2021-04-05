@@ -23,7 +23,7 @@ Simply unpack the .exe and run the program, the first two screens you will be pr
 
 <img src="/1.PNG">
 
-<img src=/blob/main/2.PNG>
+<img src='/blob/main/2.PNG'>
 
 These two pages are there to let the user know exatcly what he/she is doing and to ensure the user knows that their information needs to be accurate and that their sensitive data is stored securely. 
 
