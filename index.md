@@ -25,8 +25,10 @@ In a sense, the installation process itself is the entire program, as Qlogin is 
 Simply unpack the .exe and run the program, the first two screens you will be presented with are:
 
 <img src="https://github.com/JGDIFF/ContactInfoUpdater/blob/main/1.PNG">
+
 <img src="https://github.com/JGDIFF/ContactInfoUpdater/blob/main/2.PNG">
 
+These two pages are
 
 
 ### Support or Contact
