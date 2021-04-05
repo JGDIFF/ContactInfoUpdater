@@ -7,9 +7,6 @@ One of the most crucial aspects to any tech company is security, and one of the 
 
 QLogin is a lightweight form application that runs entirely on the native C# framework with minimal dependencies.
 
-```markdown
-code goes in here. 
-```
 
 ### Prerequisites
 Qlogin is desgined to be run on company machines that are running on a single dynamic network, however the program will still function on any personal machine, but you may not be able to use all of its features. 
