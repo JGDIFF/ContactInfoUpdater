@@ -26,7 +26,7 @@ Simply unpack the .exe and run the program, the first two screens you will be pr
 
 [Second screen](/2.PNG)
 
-![Image of Yaktocat]("https://i.ibb.co/ZMD9mj6/logo.png")
+![Image of Yaktocat](https://i.ibb.co/ZMD9mj6/logo.png)
 
 These two pages are there to let the user know exatcly what he/she is doing and to ensure the user knows that their information needs to be accurate and that their sensitive data is stored securely. 
 
