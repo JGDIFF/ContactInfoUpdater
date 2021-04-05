@@ -1,6 +1,6 @@
 ## QLogin Documentation
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](<blockquote class="imgur-embed-pub" lang="en" data-id="a/6RV6GWD" data-context="false" ><a href="//imgur.com/a/6RV6GWD"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
 
 ### Introduction
 
