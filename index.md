@@ -59,7 +59,22 @@ FATAL ERROR: Could not connect to specified host server "ABUNCHOFDATA"
 ```
 This error shows if the program cannot connect to host server, users will almost always have to contact their system administrator to solve this issue as it means that either the target server is down or the config was not setup properly. It should be noted that upon this error triggering, the current sessions information is stored locally on the users PC and the program will instantly halt execution as a privacy concern.
 
+If a user has any concerns about their personal information being collected, they should take it up with their system administrator. 
 
+
+### FAQ
+
+Question: Is my information secure?
+
+Answer: It is as secure as your system administator wants it to be, the qLogin program itself does very little and has no known security flaws, any system administator worth his salt will have your information secured nicely.
+
+Question: Why does the program keep running? It hasn't been 10 days since it ran last.
+
+Answer: This usually means you have incomplete information somewhere within the program, double check that you have answered every mandatory question.
+
+Question: Will there be macOS support?
+
+Answer: Never, qLogin is built on the C# framework which is exclusively for windows (It's the entire point of the language)
 
 
 
