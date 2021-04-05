@@ -25,7 +25,7 @@ Simply unpack the .exe and run the program, the first two screens you will be pr
 ![First screen](/1.PNG)
 
 <img src='/2.PNG'>
-![First screen](/2.PNG)
+![Second screen](/2.PNG)
 
 These two pages are there to let the user know exatcly what he/she is doing and to ensure the user knows that their information needs to be accurate and that their sensitive data is stored securely. 
 
