@@ -22,8 +22,10 @@ A windows computer (No macOS support)
 ### Installation
 In a sense, the installation process itself is the entire program, as Qlogin is an information collection tool, it should only be run upon registration, important contact information update (i.e an employee moves or changes names) or once every six months just to confirm your already existing information.
 
-Simply unpack the .exe and run the program, the first screen you will see is this one: 
+Simply unpack the .exe and run the program, the first two screens you will be presented with are:
 
+<img src="1.png"
+<img src="2.png"
 
 
 
